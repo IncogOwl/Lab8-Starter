@@ -1,6 +1,6 @@
 # Lab8-Starter
 
-## Name of Team Members: Varun Parekh
+## Name of Team Members: *Varun Parekh*
 
 ## Link: https://incogowl.github.io/Lab8-Starter/
 
